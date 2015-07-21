@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>One Blog To Log Them All</title><link href="http://felgari.github.io/" rel="alternate"></link><link href="http://felgari.github.io/feeds/info.atom.xml" rel="self"></link><id>http://felgari.github.io/</id><updated>2015-07-21T18:30:00+02:00</updated><entry><title>Introduction</title><link href="http://felgari.github.io/introduction.html" rel="alternate"></link><updated>2015-07-21T18:30:00+02:00</updated><author><name>felgari</name></author><id>tag:felgari.github.io,2015-07-21:introduction.html</id><summary type="html">&lt;p&gt;One blog to log them all,&lt;br /&gt;
+one blog to find them,&lt;br /&gt;
+one blog to clone them all,&lt;br /&gt;
+and in the darkness push them.&lt;br /&gt;
+In the land of GitHub where code lies.&lt;/p&gt;
+&lt;p&gt;A blog about software, specially my contributions to GitHub repositories.&lt;/p&gt;</summary></entry></feed>
